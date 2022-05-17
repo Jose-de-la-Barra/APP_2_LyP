@@ -1,0 +1,16 @@
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/dominio/enums/Tittles.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/dominio/Persona.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/files/FileManager.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/exceptions/CSVNotFoundException.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/ui/MainMenuUI.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/App.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/logic/DataManager.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/exceptions/DataNotLoadedException.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/ui/utils/UAIJFrame.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/ui/MostrarDatosUI.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/ui/utils/AppUtils.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/logic/SearchManager.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/exceptions/PersonWithoutAdressException.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/exceptions/NotMainPanelLoadedException.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/ui/utils/UIBuilder.java
+/Users/justo.vargas/IdeaProjects/OOP/app/src/main/java/com/uai/app/logic/builders/PersonaBuilder.java
